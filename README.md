@@ -3,7 +3,7 @@
 [开发环境]：  vue  2.x,webpack 4.0，vue-router  vue-resource  
 [项目技术点]：  1vue的组件化开发
               2vue-router的使用
-              3
+              3组件间通信（父页面与子页面的交互）  
 [项目截图]： 
 项目初始页面：  
 ![image](https://github.com/IandfChen-23/vue-shopping/blob/master/image/1.png)   
